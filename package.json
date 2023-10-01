@@ -1,10 +1,9 @@
 {
   "name": "bpm-planning-tutorial",
-  "homepage": "TathagataChakraborti.github.io/bpm-planning-tutorial",
+  "homepage": "https://TathagataChakraborti.github.io/bpm-planning-tutorial",
   "version": "0.0.0",
-  "private": false,
   "repository": "git@github.com:TathagataChakraborti/bpm-planning-tutorial.git",
-  "bugs": "git@github.com:TathagataChakraborti/bpm-planning-tutorial/issues",
+  "bugs": "https://github.com/TathagataChakraborti/bpm-planning-tutorial/issues",
   "license": "MIT",
   "scripts": {
     "build": "react-scripts build",
@@ -20,7 +19,6 @@
     "@carbon/react": "^1.31.3",
     "react": "^18.1.0",
     "react-autosuggest": "^10.0.2",
-    "react-device-detect": "2.1.2",
     "react-dom": "^18.1.0",
     "react-router-dom": "^5.0.0",
     "react-scripts": "^5.0.1",
@@ -29,6 +27,7 @@
   "devDependencies": {
     "@commitlint/cli": "^7.5.2",
     "@commitlint/config-conventional": "^7.5.0",
+    "gh-pages": "^5.0.0",
     "husky": "^1.3.1",
     "lint-staged": "^8.1.5",
     "node-sass": "^4.13.1",
