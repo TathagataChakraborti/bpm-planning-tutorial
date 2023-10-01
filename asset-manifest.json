@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bpm-planning-tutorial/static/css/main.806253a0.css",
-    "main.js": "/bpm-planning-tutorial/static/js/main.079a340b.js",
+    "main.js": "/bpm-planning-tutorial/static/js/main.7ce8c273.js",
     "static/media/IBMPlexSerif-SemiBoldItalic-Cyrillic.woff": "/bpm-planning-tutorial/static/media/IBMPlexSerif-SemiBoldItalic-Cyrillic.d96e5a614e96c351c453.woff",
     "static/media/IBMPlexSerif-SemiBoldItalic-Latin1.woff": "/bpm-planning-tutorial/static/media/IBMPlexSerif-SemiBoldItalic-Latin1.b691d8c0c5110ea3659e.woff",
     "static/media/IBMPlexSerif-Italic-Cyrillic.woff": "/bpm-planning-tutorial/static/media/IBMPlexSerif-Italic-Cyrillic.452cc78a1baf50168631.woff",
@@ -184,10 +184,10 @@
     "static/media/IBMPlexMono-Regular-Latin3.woff2": "/bpm-planning-tutorial/static/media/IBMPlexMono-Regular-Latin3.cacfd1d7dbd14067b970.woff2",
     "index.html": "/bpm-planning-tutorial/index.html",
     "main.806253a0.css.map": "/bpm-planning-tutorial/static/css/main.806253a0.css.map",
-    "main.079a340b.js.map": "/bpm-planning-tutorial/static/js/main.079a340b.js.map"
+    "main.7ce8c273.js.map": "/bpm-planning-tutorial/static/js/main.7ce8c273.js.map"
   },
   "entrypoints": [
     "static/css/main.806253a0.css",
-    "static/js/main.079a340b.js"
+    "static/js/main.7ce8c273.js"
   ]
 }
